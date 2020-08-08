@@ -6,7 +6,7 @@ function chooseStations (arrayOfStations) {
     }
   }
   return goodStations;
-  }
+}
 
 
 /*
