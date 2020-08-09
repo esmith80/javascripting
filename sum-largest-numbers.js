@@ -1,4 +1,3 @@
-
 const sumLargestNumbers = (values) => { 
   let largestA = 0;
   let largestB = 0;
